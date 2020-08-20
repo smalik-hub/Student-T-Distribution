@@ -1,2 +1,2 @@
-# Student -T-Distribution
+# Student_T-Distribution
 Python and Statistics
